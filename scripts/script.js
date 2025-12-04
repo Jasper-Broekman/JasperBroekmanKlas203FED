@@ -1,32 +1,5 @@
 // JavaScript Document
 console.log("hi");
-/*
-const nietzichtbaar = document.getElementById("niet-zichtbaar");
-const header = document.querySelector("header");
-const hamburger = document.getElementById("#hamburger-icon")
-const kruisje = document.getElementById("#sluiten")
-*/
-
-/*
-function toggleMenu() {
-  if (nietzichtbaar.style.display === "flex") {
-    nietzichtbaar.style.display = "none";
-    header.classList.remove("hide-header");
-  } else {
-    nietzichtbaar.style.display = "flex";
-    header.classList.add("hide-header");
-  }
-}
-*/
-
-
-/*
-hamburger.addEventListener ('click', function() {
-    (nietzichtbaar.style.display === "flex"); {
-    nietzichtbaar.style.display = "none";
-    header.classList.remove("hide-header");}
-})
-*/
 
 const nietzichtbaar = document.getElementById("niet-zichtbaar");
 const header = document.querySelector("header");
